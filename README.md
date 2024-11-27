@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**ShakedKelman/shakedkelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Shaked Kelman**, a passionate and energetic new developer excited about building creative and impactful projects! 🎉
 
-Here are some ideas to get you started:
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I thrive on solving challenges, exploring new technologies, and collaborating with dynamic teams. With a fresh perspective and an eagerness to grow, I’m ready to make an impact. 🚀
+
+Looking for a motivated developer to join your team? **Let’s connect!**
+
+### 📫 Email
+[shaked.kelman@gmail.com](mailto:shaked.kelman@gmail.com)
+
+### 💼 LinkedIn
+[linkedin.com/in/shaked-kelman-5894a5271](https://linkedin.com/in/shaked-kelman-5894a5271)
