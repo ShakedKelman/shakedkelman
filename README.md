@@ -2,7 +2,6 @@
 
 I'm **Shaked Kelman**, a passionate and energetic new developer excited about building creative and impactful projects! 🎉
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### About Me
 I thrive on solving challenges, exploring new technologies, and collaborating with dynamic teams. With a fresh perspective and an eagerness to grow, I’m ready to make an impact. 🚀
