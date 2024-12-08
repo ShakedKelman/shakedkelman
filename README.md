@@ -6,9 +6,7 @@ I'm **Shaked Kelman**, a full-stack web developer with a passion for transformin
 My journey into development began with a deep love for art, and I now combine creativity with code to build impactful and engaging projects. I enjoy tackling challenges, learning new technologies, and collaborating with dynamic teams. With a fresh perspective and an eagerness to grow, I’m ready to make a meaningful contribution. 🚀  
 
 ### 🌟 Skills  
-- **Languages:** 
-- [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ,
-- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+- **Languages:** [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) , [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 - **Frameworks:** [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 , [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
